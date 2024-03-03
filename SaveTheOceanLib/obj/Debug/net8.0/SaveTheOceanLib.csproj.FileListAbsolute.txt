@@ -1,0 +1,11 @@
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\bin\Debug\net8.0\SaveTheOceanLib.deps.json
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\bin\Debug\net8.0\SaveTheOceanLib.dll
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\bin\Debug\net8.0\SaveTheOceanLib.pdb
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\SaveTheOceanLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\SaveTheOceanLib.AssemblyInfoInputs.cache
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\SaveTheOceanLib.AssemblyInfo.cs
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\SaveTheOceanLib.csproj.CoreCompileInputs.cache
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\SaveTheOceanLib.dll
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\refint\SaveTheOceanLib.dll
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\SaveTheOceanLib.pdb
+C:\Users\quime\Documents\Modulo3\HeroesVSMonstruo\SaveTheOceanLib\obj\Debug\net8.0\ref\SaveTheOceanLib.dll
