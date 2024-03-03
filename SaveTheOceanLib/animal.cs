@@ -36,9 +36,18 @@
         public void generateName()
         {
             Random RNG = new Random();
-            string[] names = { "Falafel", "Flaffy", "Scrumba", "Brimblo", "Scrimblo", 
+            string[] names = { "Falafel", "Flaffy", "Scrumba", "Brimblo", 
             "Scrimblo", "Theresa", "Baldurs gate 3", "Nuclear Reactor", "Thing", "Holy bingle", "Baron fofo",
-            "Crispy", "Izutsumi"};
+            "Crispy", "Izutsumi", "Tetris", "Nigel", "Basil", "Benjamin", "Alana", "Angelica", "Baja Blast", "Alaska",
+            "Ratio", "Griddy", "Little dude", "Faust", "Bunkachunko", "Ka-ching", "Felxtape", "Mint", "Undecim", "Zeta",
+            "Yi Sang", "Santiago", "Miserable", "Raquel", "Sissyphus", "Duke Erisia", "Regent", "Evengarde Rest", "Dantes",
+            "L", "Hong Lu", "Meursault", "Sinclair", "Don", "Vergel", "Pepinex", "ElXokas", "Weyler", "Shibi", "Eusebio",
+            "Haganeno", "Chorretosa", "Carlos", "Chidori", "Jhin", "Alex", "Coco", "Werlyb", "Joan Colomer", "EMPLOYEES",
+            "MongoDB", "Roblox", "Guilty Gear", "4chan", "Cáceres", "Francesco Virgolini", "Skibidi Toilet", "Maya", 
+            "Blender 4.0", "Alcolchon", "Noelia", "Alexia", "11th September 2001", "Rolando", "Kali", "Gato", "Javi",
+            "Blender 3.5", "Visual Studio 2022", "Discord", "Sora", "Tiananmen", "Fifi", "README", "Flipabimbo", "Lesseps",
+            "Bella", "Sigma", "Mewing", "Pluto", "Argalia", "Somalia", "Andrés", "Hod", "Yesod", "Chesed", "Gebura", "Hokma",
+            "Tiphereth", "Angela", "Binah", "Vergilius", "Rodion", "Ayin", "Francisco José", "Baklava", "Orteil", "Malkuth"};
             this.Name = names[RNG.Next(0, names.Length)];
         }
 
