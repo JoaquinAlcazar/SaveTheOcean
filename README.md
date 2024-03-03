@@ -3,3 +3,4 @@
 ## Canvis
 -Agregat métode "generateSfamily" a la classe "animal" per seleccionar aleatoriament una superfamilia
 -Agregat métode "generateName" a la classe "animal" per seleccionar aleatoriament un nom
+-Agregat métode "generateFamily" a la classe "animal" per seleccionar aleatoriament una familia específica
